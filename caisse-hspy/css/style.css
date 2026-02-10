@@ -1,0 +1,30 @@
+body {
+    background: #419dc4;
+    background: linear-gradient(0deg, rgba(65, 157, 196, 1) 0%, rgba(230, 237, 240, 1) 100%);
+    min-height: 100vh;
+    height: auto;
+    margin: 0;
+}
+.en-tete {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.logo {
+    width: auto;
+    height: 100px;
+    margin-bottom: 50px;
+    
+}
+.parent {
+    display: flex;
+}
+
+/*************Admin*******************/
+.admin {
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
